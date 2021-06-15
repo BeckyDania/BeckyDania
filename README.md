@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<!--
+![bkr personal graphic banner](https://github.com/BeckyDania/BeckyDania/blob/bb0fe866a6b951d348fcabffbf0f1865ae33d9a4/Based%20in%20NYC%20(1).png)<!--
 **BeckyDania/BeckyDania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -2,6 +2,8 @@
 ![bkr personal graphic banner](https://github.com/BeckyDania/BeckyDania/blob/bb0fe866a6b951d348fcabffbf0f1865ae33d9a4/Based%20in%20NYC%20(1).png)
 
 -----------
+<h3>
+    
 ```python
 
 class BeckyDania:
@@ -9,11 +11,12 @@ class BeckyDania:
     def __init__(self):
         self.username = 'BeckyDania'
         self.name = 'Becky King-Reilly'
+        self.pronouns = ['she', 'her']
         self.web = 'www.google.com'
         self.twitter = '@BeckyDania'
         self.code = {
-            'languages': ['JavaScript', 'Python']
-            'libraries': ['JQuery', 
+            'languages': ['JavaScript', 'Python'],
+            'libraries': ['JQuery', 'JSX', 'EJS'],
             'frontend': ['HTML', 'CSS', , 'ReactJS', 'Material UI', 'Boostrap'],
             'backend': ['Python', 'Flask', 'Express'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Peewee', 'API'],
@@ -31,16 +34,8 @@ if __name__ == '__main__':
     me = BeckyDania()
 
 ```
-**BeckyDania/BeckyDania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------
+</h3>
+<h4 align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people, so if you want to say hi, I'll be more than happy to connect with you!</b></em>
+</h4>

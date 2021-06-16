@@ -34,10 +34,11 @@ if __name__ == '__main__':
     me = BeckyDania()
 
 ```
------------
-</h3>
+---------
+</h3>  
+
 <h4 align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people, so if you want to say hi, I'll be more than happy to connect with you!</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people, so if you want to say hi, I'll be more than happy to connect with you!</b></em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 </h4>
 
-
+----

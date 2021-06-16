@@ -42,3 +42,5 @@ if __name__ == '__main__':
 </h4>
 
 ----
+![LinkedIn Icon](https://github.com/BeckyDania/BeckyDania/blob/1cc69072100c59ef478725f8db55e755e239f69d/iconmonstr-linkedin-3-240%20(1).png)](https://www.linkedin.com/in/beckykingreilly/)
+

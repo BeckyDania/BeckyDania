@@ -42,3 +42,5 @@ if __name__ == '__main__':
 </h4>
 
 ----
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/BeckyDania)

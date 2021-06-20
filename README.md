@@ -40,7 +40,7 @@ if __name__ == '__main__':
 <h4 align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people, so if you want to say hi, I'll be more than happy to connect with you!</b></em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
     <br></br>
-    <br> <a href="https://twitter.com/BeckyDania" alt="Twitter"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><a href="https://www.linkedin.com/in/beckykingreilly/" alt="LinkedIn"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>    </br>
+    <br> <a href="https://twitter.com/BeckyDania" alt="Twitter"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><a href="https://www.linkedin.com/in/beckykingreilly/" alt="LinkedIn"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="https://medium.com/@BeckyDania" alt="Medium"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> </br>
 </h4>
 
 ----

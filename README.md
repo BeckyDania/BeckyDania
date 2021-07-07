@@ -17,8 +17,8 @@ class BeckyDania:
         self.code = {
             'languages': ['JavaScript', 'Python'],
             'libraries': ['JQuery', 'JSX', 'EJS'],
-            'frontend': ['HTML', 'CSS', , 'ReactJS', 'Material UI', 'Boostrap'],
-            'backend': ['Python', 'Flask', 'Express'],
+            'frontend': ['HTML', 'CSS', 'ReactJS', 'Material UI', 'Boostrap', 'Bulma'],
+            'backend': ['Python', 'Flask', 'Express', 'Django'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Peewee', 'API'],
             'devops': ['GitHub Actions', 'AWS', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'Visual Studio Code', 'Postman', 'Chrome', 'Trello'],
